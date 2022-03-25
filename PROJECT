@@ -1,0 +1,6 @@
+domain: therealhaoliu.io
+layout:
+- go.kubebuilder.io/v3
+projectName: import-secret-projection-controller
+repo: TheRealHaoLiu/import-secret-projection-controller
+version: "3"
